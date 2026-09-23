@@ -2,7 +2,7 @@
 
 Finalista de **Engenharia Informática** na ESTG – Politécnico do Porto, com especial interesse em **Inteligência Artificial e dados**. Gosto de perceber porque é que um resultado é bom (ou não é) antes de o dar como certo, e de deixar o código em condições para a próxima pessoa que lhe pegar.
 
-Portugal · Licenciatura em Engenharia Informática (2023–2026) · ofrancisco888@gmail.com
+Portugal · Licenciatura em Engenharia Informática (2023–2026) · fmpoliveira05@gmail.com
 
 ## Experiência
 
