@@ -1,6 +1,6 @@
 # Hi, I'm Francisco
 
-Final-year **Software Engineering** student (BSc, 2023–2026) at the School of Technology and Management of Universidade Técnica do Porto (ESTG-UTP), with a strong interest in **data, Artificial Intelligence and optimization**. I like to understand why a result is good (or isn't) before taking it for granted, and to leave code in good shape for whoever picks it up next.
+**Software Engineering** Graduate (BSc, 2023–2026) at the School of Technology and Management of Universidade Técnica do Porto (ESTG-UTP), with a strong interest in **data, Artificial Intelligence and optimization**. I like to understand why a result is good (or isn't) before taking it for granted, and to leave code in good shape for whoever picks it up next.
 
 I'm looking for my first role in **data, AI or software development** in Portugal: on-site, hybrid or remote.
 
