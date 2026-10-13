@@ -1,37 +1,53 @@
-# Hi, I'm Francisco
+# Hi, I'm Francisco — Junior Software Engineer
 
-**Software Engineering** Graduate (BSc, 2023–2026) at the School of Technology and Management of Universidade Técnica do Porto (ESTG-UTP), with a strong interest in **data, Artificial Intelligence and optimization**. I like to understand why a result is good (or isn't) before taking it for granted, and to leave code in good shape for whoever picks it up next.
+I'm a **Junior Software Engineer** based in Portugal, with a BSc in Computer Engineering from ESTG – Polytechnic of Porto. I'm looking for my first role in software development, with a particular interest in **C#/.NET, backend development, and AI and data**.
 
-I'm looking for my first role in **data, AI or software development** in Portugal: on-site, hybrid or remote.
+I enjoy understanding why a solution works, testing its assumptions, and writing code that other developers can maintain. My projects cover full-stack applications, machine learning, and algorithms and data structures.
 
-Preferred contact: fmpoliveira05@gmail.com and [LinkedIn](https://www.linkedin.com/in/fmpo)
-
-## Experience
-
-**Curricular internship (Jan–Jul 2026) at BNP Paribas Personal Finance (Cetelem Portugal)**, B2C Steering team
-*Data transformation for predictive analysis and dashboard development*
-
-- Dimensional data modeling (Kimball, star schemas, SCD)
-- ETL *pipeline* in Python
-- Power BI *dashboards* to monitor B2C commercial activity
-- Predictive modules with *Machine Learning* (ML)
+Portugal · BSc in Computer Engineering (2023–2026) · [fmpoliveira05@gmail.com](mailto:fmpoliveira05@gmail.com)
 
 ## Featured projects
 
-| Project | Description | Technologies |
-|---|---|---|
-| [**btc-direction-predictor**](https://github.com/fmpoliveira05-jpg/btc-direction-predictor) | 3 ML models to predict Bitcoin's daily price direction, with time-series validation, AutoML and a critical reading of the results. Streamlit app. | Python, scikit-learn, pandas, Streamlit |
-| [**snackify**](https://github.com/fmpoliveira05-jpg/snackify) | Restaurant ordering platform with a REST API, back-office and Angular client. Documented security review. | Node.js, Express, MongoDB, Angular, Jest |
-| [**viva-racing**](https://github.com/fmpoliveira05-jpg/viva-racing) | Android app to follow sports races through *crowdsourcing*, with offline support. | Kotlin, Jetpack Compose, Room, Firebase |
-| [**missao-to-cruz**](https://github.com/fmpoliveira05-jpg/missao-to-cruz) | Mission simulator in a building modeled as a graph, with custom collections and Dijkstra. | Java, Gradle, JUnit |
-| [**recolha-bens-essenciais**](https://github.com/fmpoliveira05-jpg/recolha-bens-essenciais) | Route planning for humanitarian aid collection using OOP, optimization heuristics (cheapest insertion and 2-opt) and no Java Collections. | Java, Maven, JUnit |
-| [**gestao-parque-tecnologico**](https://github.com/fmpoliveira05-jpg/gestao-parque-tecnologico) | IT equipment and maintenance management in C, with dynamic memory and Valgrind checks. | C, Make, Valgrind |
+### [Futebol Amador](https://github.com/fmpoliveira05-jpg/futebol-amador) — full-stack football platform
 
-Every repository has a README with the project context, instructions to run it, automated tests on GitHub Actions and a section on what I fixed when I revisited it after the course.
+A platform for organising amateur football, with teams, leagues, transfers, match scheduling, lineups, and player statistics. An ASP.NET Core API built with Clean Architecture serves an Angular web application and an Android app, with real-time match workflows using SignalR.
 
-## Tech stack
+My contributions include backend authentication and team membership requests, web account and calendar flows, service tests, and the subsequent security review and web frontend redesign. The repository documents my contributions and those of the other team members.
 
-- **Languages:** Python, Java, Kotlin, JavaScript/TypeScript, C and SQL
-- **Data & AI:** scikit-learn, pandas, Power BI, dimensional modeling and ETL
-- **Web & mobile:** Node.js/Express, Angular, MongoDB, Jetpack Compose and Firebase
-- **Tools:** Git, GitHub Actions, Maven/Gradle, Jest, JUnit, pytest and Docker
+**Stack:** C# · ASP.NET Core · Entity Framework Core · SQL Server · Angular · Kotlin · Firebase · SignalR
+
+[Try the web demo](https://fmpoliveira05-jpg.github.io/futebol-amador/) · [Explore the repository](https://github.com/fmpoliveira05-jpg/futebol-amador)
+
+### [BTC Direction Predictor](https://github.com/fmpoliveira05-jpg/btc-direction-predictor) — machine learning and time-series evaluation
+
+A Streamlit application that compares three machine learning models for predicting Bitcoin's next-day price direction. It includes feature engineering, walk-forward validation, manual training and AutoML, model comparison, and prediction history.
+
+The focus is on avoiding data leakage and evaluating results against baselines. The documented test results show that the models do not reliably outperform chance; the project explains that limitation rather than presenting it as a successful trading system.
+
+**Stack:** Python · scikit-learn · pandas · Streamlit · pytest
+
+[Try the browser demo](https://fmpoliveira05-jpg.github.io/btc-direction-predictor/) · [Explore the repository](https://github.com/fmpoliveira05-jpg/btc-direction-predictor)
+
+### [Missão Tó Cruz](https://github.com/fmpoliveira05-jpg/missao-to-cruz) — Java algorithms and data structures
+
+A mission simulator with a weighted building graph, Dijkstra-based route planning, custom collections, and a Swing graphical interface. The project uses stacks, queues, heaps, and linked lists to implement game rules and automated decisions without the Java Collections Framework.
+
+My contributions include simulation logic and automatic mode, followed by a Gradle multi-module restructure, algorithm fixes, a shared testable game engine, and the graphical interface with three difficulty levels.
+
+**Stack:** Java · Gradle · JUnit · Swing · Java2D
+
+[Explore the repository](https://github.com/fmpoliveira05-jpg/missao-to-cruz)
+
+## Technologies
+
+**Languages:** C# · Python · Java · Kotlin · JavaScript/TypeScript · C · SQL
+
+**Web and mobile:** ASP.NET Core · Entity Framework Core · Angular · Node.js/Express · MongoDB · Jetpack Compose · Firebase
+
+**Data and AI:** scikit-learn · pandas · Power BI · dimensional modelling · ETL
+
+**Tools and testing:** Git · GitHub Actions · Docker · Maven/Gradle · NUnit · Jest · JUnit · Playwright · pytest
+
+## Beyond code
+
+I helped organise **ESTG Connect 2026**, supporting participant accreditation, check-in, and certificates.
